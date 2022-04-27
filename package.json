@@ -13,7 +13,10 @@
   "author": "angelWang",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.3"
+    "axios": "^0.26.1",
+    "express": "^4.17.3",
+    "sha1": "^1.1.1",
+    "xml2js": "^0.4.23"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
